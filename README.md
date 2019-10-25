@@ -4,4 +4,5 @@ gcc main.c -o main -lpthread<br><br>
 # Execute:
 ./main <filename.txt>
 
-'GenerateIntTxt.py' for testing purposes.
+# Testing:
+`GenerateIntTxt.py` to generate a list of n integers in range [n,n)
